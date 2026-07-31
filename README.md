@@ -31,4 +31,8 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
