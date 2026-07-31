@@ -23,4 +23,12 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
