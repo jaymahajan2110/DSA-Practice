@@ -3,14 +3,9 @@ class Solution {
         int ans = 0;
 
         for (int n : nums) {
-            int count = 0;
-
-            while (n > 0) {
-                n /= 10;
-                count++;
-            }
-
-            if (count % 2 == 0) {
+            if ((n >= 10 && n <= 99) ||
+                (n >= 1000 && n <= 9999) ||
+                (n == 100000)) {
                 ans++;
             }
         }
