@@ -57,6 +57,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -67,6 +68,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0707-design-linked-list) |
