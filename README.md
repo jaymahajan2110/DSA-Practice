@@ -68,6 +68,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0707-design-linked-list) |
 ## Design
 |  |
