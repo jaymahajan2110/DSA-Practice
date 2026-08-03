@@ -76,6 +76,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -90,6 +91,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -111,4 +113,12 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
