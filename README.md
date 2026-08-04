@@ -77,6 +77,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -97,6 +98,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
