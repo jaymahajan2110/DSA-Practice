@@ -19,6 +19,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -92,6 +93,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -117,8 +119,10 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
