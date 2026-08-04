@@ -90,6 +90,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0707-design-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
