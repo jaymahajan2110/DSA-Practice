@@ -5,26 +5,20 @@
  *     ListNode next;
  *     ListNode() {}
  *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     ListNode(int val, ListNode next) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
  * }
  */
 class Solution {
 
-    private ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+            return true;
         }
 
-        return prev;
-    }
-
-    private ListNode middleNode(ListNode head) {
+        // Find the middle
         ListNode slow = head;
         ListNode fast = head;
 
@@ -33,27 +27,39 @@ class Solution {
             fast = fast.next.next;
         }
 
-        return slow;
+        // Reverse second half
+        ListNode second = reverse(slow);
+        ListNode copySecond = second;
+
+        // Compare both halves
+        ListNode first = head;
+        boolean isPalindrome = true;
+
+        while (second != null) {
+            if (first.val != second.val) {
+                isPalindrome = false;
+                break;
+            }
+            first = first.next;
+            second = second.next;
+        }
+
+        // Restore the list (optional but recommended)
+        reverse(copySecond);
+
+        return isPalindrome;
     }
 
-    public boolean isPalindrome(ListNode head) {
-        if (head == null || head.next == null) {
-            return true;
+    private ListNode reverse(ListNode head) {
+        ListNode prev = null;
+
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
         }
 
-        ListNode mid = middleNode(head);
-        ListNode secondHalf = reverseList(mid);
-
-        ListNode firstHalf = head;
-
-        while (secondHalf != null) {
-            if (firstHalf.val != secondHalf.val) {
-                return false;
-            }
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
-        }
-
-        return true;
+        return prev;
     }
 }
