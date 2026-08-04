@@ -49,6 +49,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -102,6 +104,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -143,5 +146,10 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 | [3731-find-missing-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3731-find-missing-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
