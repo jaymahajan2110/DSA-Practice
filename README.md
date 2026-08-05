@@ -46,6 +46,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
 ## Divide and Conquer
 |  |
@@ -118,6 +119,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -178,4 +180,8 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
