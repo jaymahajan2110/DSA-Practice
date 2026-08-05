@@ -99,6 +99,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
 ## Two Pointers
@@ -115,6 +116,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -167,4 +169,8 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3310-remove-methods-from-project) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
