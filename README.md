@@ -99,6 +99,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0707-design-linked-list) |
@@ -117,6 +118,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
