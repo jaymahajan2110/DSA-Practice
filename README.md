@@ -50,6 +50,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
@@ -66,6 +67,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
