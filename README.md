@@ -10,6 +10,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
@@ -24,6 +25,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -32,6 +34,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
@@ -66,6 +69,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -82,6 +86,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
@@ -142,10 +147,12 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
