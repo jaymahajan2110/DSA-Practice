@@ -22,6 +22,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
