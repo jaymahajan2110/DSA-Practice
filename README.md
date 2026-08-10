@@ -28,6 +28,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -71,6 +72,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -88,6 +90,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -149,11 +152,13 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,4 +219,12 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
