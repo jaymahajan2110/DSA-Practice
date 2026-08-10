@@ -1,23 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String str1 = String.valueOf(x);
-
-        if (str1.charAt(0) == '-') {
+        if (x < 0) {
             return false;
         }
 
-        int start = 0;
-        int end = str1.length() - 1;
+        int original = x;
+        int reversed = 0;
 
-        while (start < end) {
-            if (str1.charAt(start) != str1.charAt(end)) {
-                return false;
-            }
-
-            start++;
-            end--;
+        while (x != 0) {
+            int digit = x % 10;
+            reversed = reversed * 10 + digit;
+            x /= 10;
         }
 
-        return true;
+        return original == reversed;
     }
 }
