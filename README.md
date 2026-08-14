@@ -33,6 +33,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -73,6 +74,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
