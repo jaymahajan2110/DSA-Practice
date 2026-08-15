@@ -20,6 +20,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
