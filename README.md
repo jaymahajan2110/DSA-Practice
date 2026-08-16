@@ -9,6 +9,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0039-combination-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -239,6 +241,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
