@@ -6,6 +6,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,6 +236,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
