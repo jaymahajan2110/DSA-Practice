@@ -66,6 +66,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
@@ -186,6 +187,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
@@ -239,6 +241,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0040-combination-sum-ii) |
