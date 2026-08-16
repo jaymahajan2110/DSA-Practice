@@ -1,35 +1,38 @@
 class Solution {
+    String[] keypad = {
+        "", "", "abc", "def", "ghi",
+        "jkl", "mno", "pqrs", "tuv", "wxyz"
+    };
+
     public List<String> letterCombinations(String digits) {
+        List<String> result = new ArrayList<>();
+
         if (digits.isEmpty()) {
-            return new ArrayList<>();
+            return result;
         }
-        return padRet("", digits);
+
+        backtrack(digits, 0, new StringBuilder(), result);
+
+        return result;
     }
 
-    static ArrayList<String> padRet(String p, String up) {
+    void backtrack(String digits, int index,
+                   StringBuilder curr,
+                   List<String> result) {
 
-        if (up.isEmpty()) {
-            ArrayList<String> list = new ArrayList<>();
-            list.add(p);
-            return list;
+        if (index == digits.length()) {
+            result.add(curr.toString());
+            return;
         }
 
-        String[] keypad = {
-            "", "", "abc", "def", "ghi",
-            "jkl", "mno", "pqrs", "tuv", "wxyz"
-        };
+        String letters = keypad[digits.charAt(index) - '0'];
 
-        int digit = up.charAt(0) - '0';
+        for (char ch : letters.toCharArray()) {
+            curr.append(ch);
 
-        ArrayList<String> list = new ArrayList<>();
+            backtrack(digits, index + 1, curr, result);
 
-        String letters = keypad[digit];
-
-        for (int i = 0; i < letters.length(); i++) {
-            char ch = letters.charAt(i);
-            list.addAll(padRet(p + ch, up.substring(1)));
+            curr.deleteCharAt(curr.length() - 1);
         }
-
-        return list;
     }
 }
