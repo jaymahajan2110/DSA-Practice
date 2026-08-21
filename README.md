@@ -27,6 +27,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -47,6 +48,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [1510-stone-game-iv](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -64,6 +66,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
 | ------- |
@@ -90,6 +93,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -265,6 +269,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -292,4 +297,8 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
