@@ -15,6 +15,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -56,6 +57,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
@@ -67,6 +69,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
@@ -287,6 +290,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
