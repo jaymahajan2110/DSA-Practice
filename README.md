@@ -75,6 +75,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
@@ -199,6 +200,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -284,6 +286,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
