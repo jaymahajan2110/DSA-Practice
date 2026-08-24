@@ -12,6 +12,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
@@ -194,6 +195,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0225-implement-stack-using-queues](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -228,6 +230,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -338,4 +341,8 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
