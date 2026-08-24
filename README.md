@@ -93,6 +93,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -227,6 +228,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -314,6 +316,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0930-binary-subarrays-with-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
