@@ -33,6 +33,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [1872-stone-game-viii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -211,6 +212,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0735-asteroid-collision](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
+| [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -364,4 +366,5 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
