@@ -13,6 +13,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
@@ -198,6 +199,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0232-implement-queue-using-stacks](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -349,4 +351,5 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
