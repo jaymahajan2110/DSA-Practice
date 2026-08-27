@@ -115,6 +115,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -166,6 +167,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0002-add-two-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -276,6 +278,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 ## Depth-First Search
 |  |
@@ -376,4 +379,12 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
