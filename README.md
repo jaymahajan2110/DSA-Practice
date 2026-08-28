@@ -106,6 +106,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -134,6 +135,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -217,6 +219,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0402-remove-k-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
@@ -306,6 +309,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -326,6 +330,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0402-remove-k-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
