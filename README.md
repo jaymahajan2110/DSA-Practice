@@ -19,6 +19,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -325,6 +326,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0402-remove-k-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
