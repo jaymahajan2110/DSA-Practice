@@ -19,7 +19,7 @@ class Solution {
                     five --;
                     ten--;
                 }
-                else if (five>2){
+                else if (five>=3){
                     five = five -3;
                 }
                 else {
