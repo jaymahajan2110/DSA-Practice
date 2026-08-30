@@ -37,6 +37,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [1872-stone-game-viii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -340,6 +341,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0860-lemonade-change](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
