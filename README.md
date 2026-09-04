@@ -51,6 +51,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [3731-find-missing-elements](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
