@@ -114,6 +114,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0020-valid-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -147,6 +148,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0042-trapping-rain-water](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
