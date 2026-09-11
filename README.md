@@ -46,6 +46,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -173,6 +174,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0206-reverse-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -339,6 +342,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
