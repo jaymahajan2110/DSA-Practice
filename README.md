@@ -22,6 +22,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -441,6 +442,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
