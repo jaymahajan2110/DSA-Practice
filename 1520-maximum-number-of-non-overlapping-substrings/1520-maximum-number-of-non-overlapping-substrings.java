@@ -1,67 +1,57 @@
-class Solution {
+import java.util.*;
 
+class Solution {
     public List<String> maxNumOfSubstrings(String s) {
-        Seg[] seg = new Seg[26];
-        for (int i = 0; i < 26; ++i) {
-            seg[i] = new Seg(-1, -1);
+        int n = s.length();
+        int[] first = new int[26];
+        int[] last = new int[26];
+
+        Arrays.fill(first, n);
+        Arrays.fill(last, -1);
+
+        for (int i = 0; i < n; i++) {
+            int c = s.charAt(i) - 'a';
+            first[c] = Math.min(first[c], i);
+            last[c] = i;
         }
-        // Preprocess the left and right endpoints.
-        for (int i = 0; i < s.length(); ++i) {
-            int charIdx = s.charAt(i) - 'a';
-            if (seg[charIdx].left == -1) {
-                seg[charIdx].left = seg[charIdx].right = i;
-            } else {
-                seg[charIdx].right = i;
-            }
-        }
-        for (int i = 0; i < 26; ++i) {
-            if (seg[i].left != -1) {
-                for (int j = seg[i].left; j <= seg[i].right; ++j) {
-                    int charIdx = s.charAt(j) - 'a';
-                    if (
-                        seg[i].left <= seg[charIdx].left &&
-                        seg[charIdx].right <= seg[i].right
-                    ) {
-                        continue;
-                    }
-                    seg[i].left = Math.min(seg[i].left, seg[charIdx].left);
-                    seg[i].right = Math.max(seg[i].right, seg[charIdx].right);
-                    j = seg[i].left;
+
+        List<int[]> intervals = new ArrayList<>();
+
+        for (int c = 0; c < 26; c++) {
+            if (last[c] == -1) continue;
+
+            int l = first[c];
+            int r = last[c];
+            boolean valid = true;
+
+            for (int i = l; i <= r; i++) {
+                int x = s.charAt(i) - 'a';
+
+                if (first[x] < l) {
+                    valid = false;
+                    break;
                 }
+
+                r = Math.max(r, last[x]);
+            }
+
+            if (valid) {
+                intervals.add(new int[]{l, r});
             }
         }
-        // Greedily select intervals.
-        Arrays.sort(seg);
+
+        intervals.sort((a, b) -> a[1] - b[1]);
+
         List<String> ans = new ArrayList<>();
         int end = -1;
-        for (Seg segment : seg) {
-            int left = segment.left,
-                right = segment.right;
-            if (left == -1) {
-                continue;
-            }
-            if (end == -1 || left > end) {
-                end = right;
-                ans.add(s.substring(left, right + 1));
+
+        for (int[] interval : intervals) {
+            if (interval[0] > end) {
+                ans.add(s.substring(interval[0], interval[1] + 1));
+                end = interval[1];
             }
         }
+
         return ans;
-    }
-
-    class Seg implements Comparable<Seg> {
-
-        int left, right;
-
-        public Seg(int left, int right) {
-            this.left = left;
-            this.right = right;
-        }
-
-        public int compareTo(Seg rhs) {
-            if (right == rhs.right) {
-                return rhs.left - left;
-            }
-            return right - rhs.right;
-        }
     }
 }
