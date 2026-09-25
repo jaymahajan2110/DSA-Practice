@@ -141,6 +141,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1927-sum-game) |
@@ -272,6 +273,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Doubly-Linked List
@@ -310,6 +312,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -336,6 +339,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -353,6 +357,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -385,6 +390,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0040-combination-sum-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
