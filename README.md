@@ -144,6 +144,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0940-distinct-subsequences-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -279,6 +280,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0907-sum-of-subarray-minimums](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -382,6 +384,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0022-generate-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
