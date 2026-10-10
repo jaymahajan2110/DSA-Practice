@@ -14,6 +14,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0055-jump-game](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +71,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0002-add-two-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +262,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
