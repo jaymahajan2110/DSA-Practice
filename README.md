@@ -16,6 +16,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0503-next-greater-element-ii) |
