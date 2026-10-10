@@ -16,6 +16,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -265,6 +266,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
