@@ -1,21 +1,23 @@
-
 class Solution {
+    public void swap(int i, int j, int[] arr){
+        while(i < j){
+            int temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+            i++;
+            j--;
+        }
+    }
     public void rotate(int[] nums, int k) {
-
         int n = nums.length;
-        if (n == 0) return;
+        if(k == 0 || k == n) return;
 
         k = k % n;
 
-        int[] result = new int[n];
+        swap(0, n-1, nums);
 
-        for (int i = 0; i < n; i++) {
-            int index = (i + k) % n;
-            result[index] = nums[i];
-        }
+        swap(0, k-1, nums);
 
-        for (int i = 0; i < n; i++) {
-            nums[i] = result[i];
-        }
+        swap(k, n-1, nums);
     }
 }
