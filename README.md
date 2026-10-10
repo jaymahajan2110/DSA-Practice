@@ -16,6 +16,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0066-plus-one](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0836-rectangle-overlap) |
@@ -124,6 +126,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -175,6 +178,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | ------- |
 | [0090-subsets-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jaymahajan2110/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -327,6 +331,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 | [0141-linked-list-cycle](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -355,6 +360,7 @@ Collection of Data Structures and Algorithms solutions in Java from LeetCode and
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaymahajan2110/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/jaymahajan2110/DSA-Practice/tree/master/1096-brace-expansion-ii) |
